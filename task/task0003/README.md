@@ -1,10 +1,10 @@
-#task0002
+#task0003
 ##任务目的
-* 掌握java中的Array
+* 熟悉java中的Date&Time
 
 ##基础练习
-* [数组练习](http://www.tutorialspoint.com/javaexamples/java_arrays.htm)
-* 5.22之前提交pr
+* [日期和时间练习](http://www.tutorialspoint.com/javaexamples/java_date_time.htm)
+* 5.30之前提交push
 
 <span style="color:red;">注意：</span>
 * 基础的包结构`com.dh.*`,*表示自己定义的包
