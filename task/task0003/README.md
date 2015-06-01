@@ -4,7 +4,7 @@
 
 ##基础练习
 * [日期和时间练习](http://www.tutorialspoint.com/javaexamples/java_date_time.htm)
-* 5.30之前提交push
+* 5.30之前提交pull request
 
 <span style="color:red;">注意：</span>
 * 基础的包结构`com.dh.*`,*表示自己定义的包
