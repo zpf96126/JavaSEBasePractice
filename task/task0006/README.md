@@ -1,10 +1,10 @@
-#task0003
+#task0006
 ##任务目的
-* 熟悉java中的Date&Time
+* 熟悉java中的Directories
 
 ##基础练习
-* [日期和时间练习](http://www.tutorialspoint.com/javaexamples/java_date_time.htm)
-* 5.30之前提交pull request
+* [Directories练习](http://www.tutorialspoint.com/javaexamples/java_directories.htm)
+* 6.21之前提交pull request
 
 <span style="color:red;">注意：</span>
 * 基础的包结构`com.dh.*`,*表示自己定义的包
